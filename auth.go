@@ -1,4 +1,4 @@
-package rc
+package bc
 
 import "github.com/go-resty/resty/v2"
 
